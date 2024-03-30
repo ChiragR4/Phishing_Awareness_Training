@@ -1,1 +1,1 @@
-CodeAlpha Internship Task: Phishing Awareness Training
+CodeAlpha Cyber Security Internship Task: Phishing Awareness Training
